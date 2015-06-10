@@ -8,6 +8,7 @@
     "test": "grunt test"
   },
   "dependencies": {
+    "concur-platform": "^0.3.13",
     "adaro": "^0.1.10",
     "dustjs-helpers": "^1.2.0",
     "dustjs-linkedin": "^2.3.6",
