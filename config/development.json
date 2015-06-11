@@ -6,10 +6,10 @@
 	"concur": {
 	    "oauthToken":"OpgCePayz2QAUTf/r5AZvmikLTM=", // "HYK5Jd90ybBaszFnVoUPXDgB404",
 	    "webserviceAdminoauthToken":"WEBSERVICE_ADMIN_OAUTH_TOKEN",
-	    "username":"jinduan@ebay.com",
-	    "password":"qazwsxedc",
-	    "consumerKey":"88BP4yGtzzXxKjbmCOSNSz",
-	    "client_secret":"k7LB1vs2pR9ClyoVgaU93EH3zFTZ3orG"
+	    "username":"mnchen@ebay.com", //jinduan@ebay.com
+	    "password":"19911130", //qazwsxedc
+	    "consumerKey":"5y9tozkVOKiJUl8WU9xnyB", //88BP4yGtzzXxKjbmCOSNSz
+	    "client_secret":"Xv2CJtziwlrHNtm6FEbFodoZWzpGPci8" //k7LB1vs2pR9ClyoVgaU93EH3zFTZ3orG
 	},
 
     "express": {
