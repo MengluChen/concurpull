@@ -1,5 +1,17 @@
 {
-    
+    "couchbase": {
+        "cluster":"couchbase://10.9.157.112"
+    },
+
+	"concur": {
+	    "oauthToken":"OpgCePayz2QAUTf/r5AZvmikLTM=", // "HYK5Jd90ybBaszFnVoUPXDgB404",
+	    "webserviceAdminoauthToken":"WEBSERVICE_ADMIN_OAUTH_TOKEN",
+	    "username":"jinduan@ebay.com",
+	    "password":"qazwsxedc",
+	    "consumerKey":"88BP4yGtzzXxKjbmCOSNSz",
+	    "client_secret":"k7LB1vs2pR9ClyoVgaU93EH3zFTZ3orG"
+	},
+
     "express": {
         "view cache": false,
         "view engine": "dust",
@@ -34,7 +46,7 @@
                 "arguments": [
                     "path:./public",
                     "path:./.build",
-                    {   
+                    {
                         "template": {
                             "module": "kraken-devtools/plugins/dustjs",
                             "files": "/templates/**/*.js",
